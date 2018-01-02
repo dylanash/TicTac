@@ -2,4 +2,9 @@ TicTacToe
 
 ----------
 
-Welcome!
+Setup
+---
+ 
+```
+npm install
+```
